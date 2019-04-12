@@ -1,0 +1,32 @@
+body{
+    background-color: lime;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 100px;
+    font-family: arial;
+}
+
+#artist {
+    background-color: transparent;
+    font-size: 50px;
+}
+
+#resultCount {
+    background-color: transparent;
+    font-size: 50px;
+}
+
+#click {
+    background-color: transparent;
+    font-size: 50px;
+
+}
+
+#myDiv {
+    font-size: 25px;
+    font-family: arial;
+
+}
